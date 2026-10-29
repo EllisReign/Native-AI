@@ -4,7 +4,7 @@
     <main aria-labelledby="title"> 
         <h2 id="title"><%: Title %>.</h2>
         <h3>Your application description page.</h3>
-        <p>Use this area to provide additional information.</p>
+        <p>Use this area to provide additional information. Sample AI</p>
     </main> 
 </asp:Content>
   
